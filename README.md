@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arshin Albab</h1>
-<h3 align="center">A passionate UI/UX Designer from Mangalore</h3>
+<h3 align="center">A passionate Developer and UI/UX Designer from Mangalore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshinalbab&label=Profile%20views&color=0e75b6&style=flat" alt="arshinalbab" /> </p>
 
